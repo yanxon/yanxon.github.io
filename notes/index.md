@@ -2,7 +2,7 @@
 layout: page
 title: Notes
 menu: true
-order: 2
+order: 4
 ---
 
 Table of Contents

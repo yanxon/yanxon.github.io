@@ -146,4 +146,6 @@ Finally, downgrading can be easily done by executing this command:
 conda install python=3.6.7
 ```
 
+Nope, you're not done. Please check if you numpy is working. If it gives you ImportError multiarray, you have to delete the numpy (most likely manually) and reinstall numpy with pip.
+
 P.S. If you install Python 3.5, you have to install scipy separately.

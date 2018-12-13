@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: My first post
+title: Articles
 description:
 ---
 

@@ -145,3 +145,5 @@ Finally, downgrading can be easily done by executing this command:
 ```
 conda install python=3.6.7
 ```
+
+P.S. If you install Python 3.5, you have to install scipy separately.

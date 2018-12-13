@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: My First Post test
 description:
 ---

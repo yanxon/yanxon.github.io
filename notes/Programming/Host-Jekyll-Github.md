@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Host Jekyll website from GitHub
+title: Host Jekyll website on GitHub
 description:
 ---
 

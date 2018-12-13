@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Machine Learning Notes
+title: Progamming/Coding Notes
 ---
 
 Contents
 
-* [GitPushError]{:.heading.flip-title}
-* [JekyllGithub]{:.heading.flip-title}
+* [Git Push Error 403 Forbidden]{:.heading.flip-title}
+* [Host Jekyll Website on Github]{:.heading.flip-title}
 
-[GitPushError]: Git-Push-Error-403-Forbidden.md
-[JekyllGithub]: Host-Jekyll-Github.md
+[Git Push Error 403 Forbidden]: Git-Push-Error-403-Forbidden.md
+[Host Jekyll Website on Github]: Host-Jekyll-Github.md

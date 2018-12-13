@@ -209,6 +209,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+include:
+  - post/_post
+
 
 # Plugins and Plugin Configuration
 # ========================================================================================

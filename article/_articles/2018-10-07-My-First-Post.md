@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Articles
+title: My First Post test
 description:
 ---
 

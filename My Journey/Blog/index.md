@@ -3,4 +3,8 @@ layout: page
 title: Blog
 ---
 
-Blog here.
+Contents:
+
+* [My First Post]{:.heading.flip-title}
+
+[My First Post]: 2018-10-07-My-First-Post.md

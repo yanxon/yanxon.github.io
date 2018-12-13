@@ -10,7 +10,7 @@ slug: Post
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  In this menu, I will post about my personal development trainings that I’ve been through. Personal development trainings include my favorite books, videos, workshops, seminars, conferences, and travels.
+  Here, I will post about my personal development trainings that I’ve been through. Personal development trainings include my favorite books, videos, workshops, seminars, conferences, and travels.
   
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true

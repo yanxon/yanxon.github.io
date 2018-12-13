@@ -10,10 +10,9 @@ slug: Post
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  By experiencing both victory and defeat, running away and shedding tears, a man will become a man. It's okay to cry, but you have to move on.
-  - Red Haired Shanks
+  In this menu, I will post about my personal development trainings that I’ve been through. Personal development trainings include my favorite books, videos, workshops, seminars, conferences, and travels.
   
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
-order: 2
+order: 1
 ---

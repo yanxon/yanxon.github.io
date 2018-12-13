@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Posting
+title: Personal Development
 menu: True
 order: 2
 ---

@@ -1,5 +1,5 @@
 ---
-layout: Help
+layout: post
 title: The CEO Habits Challenge
 description:
 ---

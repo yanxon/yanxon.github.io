@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ubuntu 15 vs Ubuntu 18
+title: Ubuntu 15.04 vs Ubuntu 18.04
 description:
 ---
 
@@ -10,7 +10,7 @@ I have been using Ubuntu(Linux Os) since 2015. The newest version of Ubuntu was 
 
 Now, I have more time to look for the reasons. I spent three days trying to figure it out. The reason Git couldn't be install is due to the outdated Ubuntu v15.04. The updater in Ubuntu v15.04 didn't even want to update itself. So, I spent time to find out why and how to update the updater. In this case, the time spent was unproductive and unsuccessful.
 
-$$Therefore, I implore you stop using Ubuntu v15.04.$$ If you have one installed in your computer, delete it! You can go to YouTube to find out how to delete Ubuntu in your system. It was pretty easy.
+**Therefore, I implore you stop using Ubuntu v15.04.** If you have one installed in your computer, delete it! You can go to YouTube to find out how to delete Ubuntu in your system. It was pretty easy.
 
 However, Ubuntu 18.04 is a much better Linux OS in term of. Um... Everything. The GUI is better customized, and Git was successfully installed without any problem. I just had it installed in my computer 5 hours ago; I can tell I will be using Ubuntu v18.04 for a long time. Also, Ubuntu v.18.04 has a Long Term Support (LTS). It has supports guaranteed until April 2023.
 

@@ -56,3 +56,6 @@ description:
   3. Finally, think about how you can do better on things that went well.
 
   Do this for an hour everyday before going to sleep!
+
+ 
+ P.s. updated on 1/1/2019

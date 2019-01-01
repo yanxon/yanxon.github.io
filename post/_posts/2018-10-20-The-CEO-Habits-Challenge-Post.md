@@ -50,5 +50,9 @@ description:
   
 ### 7. Evaluation
 
-  Before going to bed, 
+  Before going to bed, evaluate your day. Try this method:
+  1. Summarize things that went well and wrong.
+  2. Comprehensively critize the things that went wrong and brainstorm on how to improve upon them.
+  3. Finally, think about how you can do better on things that went well.
 
+  Do this for an hour everyday before going to sleep!
